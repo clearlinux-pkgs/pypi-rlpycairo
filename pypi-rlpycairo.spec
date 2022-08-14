@@ -4,7 +4,7 @@
 #
 Name     : pypi-rlpycairo
 Version  : 0.0.7
-Release  : 7
+Release  : 8
 URL      : https://files.pythonhosted.org/packages/20/47/ff0e6c7e765e7eb96310e1171e854db8fbcb0950e9366f6d3695c64cc1b2/rlPyCairo-0.0.7.tar.gz
 Source0  : https://files.pythonhosted.org/packages/20/47/ff0e6c7e765e7eb96310e1171e854db8fbcb0950e9366f6d3695c64cc1b2/rlPyCairo-0.0.7.tar.gz
 Summary  : Plugin backend renderer for reportlab.graphics.renderPM
