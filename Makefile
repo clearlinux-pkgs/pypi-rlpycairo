@@ -1,5 +1,5 @@
 PKG_NAME := pypi-rlpycairo
-URL = https://files.pythonhosted.org/packages/fa/18/4415de2c2335a31e04f36ffb3311b0a3a5d928e5106e48e265d7f63d1338/rlPyCairo-0.1.0.tar.gz
+URL = https://files.pythonhosted.org/packages/41/1c/92b68514640869e554252a1c454b654abea8f9a58567062b96ea254bd7ad/rlPyCairo-0.2.0.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
